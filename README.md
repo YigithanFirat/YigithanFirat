@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! My name is Yigithan Firat, and I'm passionate about coding, problem-solving, and exploring new technologies. 🚀
+Welcome to my GitHub profile! My name is Yiğithan Firat, and I'm passionate about coding, problem-solving, and exploring new technologies. 🚀
 
 ### 🔭 I’m currently working on:
 - Developing projects using **Vue.js** and **Unity**.
@@ -27,6 +27,7 @@ Welcome to my GitHub profile! My name is Yigithan Firat, and I'm passionate abou
 ### 📫 How to reach me:
 - GitHub: [YigithanFirat](https://github.com/YigithanFirat)
 - YouTube: [Abusivesnake](https://www.youtube.com/@Abusivesnake)
+- LinkedIn: [Yiğithan Fırat](https://www.linkedin.com/in/yi%C4%9Fithan-f%C4%B1rat-164168219/?originalSubdomain=tr)
 
 ### 😄 Pronouns:
 - He/Him
