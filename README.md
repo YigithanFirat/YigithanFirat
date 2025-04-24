@@ -6,6 +6,7 @@ Welcome to my GitHub profile! My name is Yiğithan Firat, and I'm passionate abo
 - Developing projects using **Vue.js** and **Unity**.
 - Managing my SA-MP server, **Destiny Roleplay**.
 - Building a responsive and modern forum for **Destiny Roleplay** using PHP and XAMPP.
+- Creating DivingLog, a web application for managing diving plans, using PHP, HTML, CSS, and JavaScript.
 
 ### 🌱 I’m currently learning:
 - Advanced **PostgreSQL** database management with `PostgresHook`.
