@@ -1,58 +1,56 @@
-## Hi there 👋
+Hi there 👋
+Welcome to my GitHub profile! I'm Yiğithan Fırat, a passionate developer who enjoys solving complex problems and building innovative digital experiences — from web apps to games. 🚀
 
-Welcome to my GitHub profile! My name is Yiğithan Fırat, and I'm passionate about coding, problem-solving, and building innovative digital experiences. 🚀
+🔧 What I'm Working On
+DivingLog – A web app for managing diving plans using PHP, HTML/CSS, and JavaScript.
 
----
+Dynamic frontend interfaces with Vue.js.
 
-### 🔭 I’m currently working on:
-- Creating **DivingLog**, a web app for managing diving plans, using **PHP**, **HTML**, **CSS**, and **JavaScript**.
-- Developing projects with **Vue.js** for dynamic frontend interfaces.
-- Building immersive game mechanics in **Unity** for both personal and community-based projects.
-- Managing and expanding my SA-MP server, **Destiny Roleplay**, including backend scripting and game balancing.
-- Developing a responsive, modern forum for **Destiny Roleplay** using **PHP** and **XAMPP**.
+Immersive gameplay systems in Unity for personal and community-based games.
 
----
+Backend scripting and balance design for my SA-MP server: Destiny Roleplay.
 
-### 🌱 I’m currently learning:
-- Advanced **PostgreSQL** database management with `PostgresHook` and performance tuning.
-- Best practices in **UI/UX design** for both web and game development.
-- **RESTful API** integration and modern backend development patterns.
+A modern, responsive forum for Destiny Roleplay using PHP and XAMPP.
 
----
+🌱 Currently Learning
+Advanced PostgreSQL with PostgresHook and performance tuning.
 
-### 👯 I’m looking to collaborate on:
-- Web development projects using **PHP**, **JavaScript**, or modern frameworks like **Vue.js** or **Laravel**.
-- Game development in **Unity**, especially story-driven or multiplayer experiences.
-- Full-stack projects where I can contribute to both frontend and backend development.
+UI/UX design principles for web and game development.
 
----
+RESTful API integration and scalable backend patterns.
 
-### 🤔 I’m looking for help with:
-- Optimizing database queries for high-performance systems.
-- Implementing scalable architectures for real-time games or apps.
-- Integrating responsive and accessible design systems across platforms.
+🤝 Open to Collaborations On
+Full-stack web development with PHP, JavaScript, Vue.js, or Laravel.
 
----
+Game development in Unity, especially narrative or multiplayer projects.
 
-### 💬 Ask me about:
-- SA-MP scripting and roleplay server architecture.
-- Vue.js development tips and component design.
-- Unity game mechanics and best practices in game scripting.
-- Backend development in PHP with MySQL/PostgreSQL.
+Any project where I can contribute to both frontend and backend development.
 
----
+🧠 Looking for Help With
+Optimizing database queries for high-load systems.
 
-### 📫 How to reach me:
-- GitHub: [YigithanFirat](https://github.com/YigithanFirat)
-- YouTube: [Abusivesnake](https://www.youtube.com/@Abusivesnake)
-- LinkedIn: [Yiğithan Fırat](https://www.linkedin.com/in/yi%C4%9Fithan-f%C4%B1rat-164168219/)
+Designing scalable architectures for real-time applications or games.
 
----
+Building fully responsive and accessible design systems.
 
-### 😄 Pronouns:
-- He/Him
+💬 Ask Me About
+SA-MP scripting and roleplay server architecture.
 
----
+Vue.js component design and best practices.
 
-### ⚡ Fun fact:
-- I love blending creativity and technology to build engaging games and functional web apps that solve real problems or bring people together. Whether it's coding a custom roleplay system or crafting a clean UI, I'm always excited to learn more and build something great!
+Unity game mechanics and scripting.
+
+Backend development with PHP, MySQL, or PostgreSQL.
+
+📫 Let's Connect!
+### 📫 Connect with me
+
+- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/YigithanFirat) [YigithanFirat](https://github.com/YigithanFirat)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Abusivesnake) [Abusivesnake](https://www.youtube.com/@Abusivesnake)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fithan-f%C4%B1rat-164168219/) [Yiğithan Fırat](https://www.linkedin.com/in/yi%C4%9Fithan-f%C4%B1rat-164168219/)
+
+😄 Pronouns:
+He/Him
+
+⚡ Fun Fact
+I love combining creativity with code — whether it’s crafting a polished UI or scripting unique gameplay systems. I thrive on learning, building, and creating experiences that make a difference.
