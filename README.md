@@ -1,89 +1,79 @@
-# 👋 Hi there, I'm Yiğithan Fırat
+# 👋 Selam! Ben Yiğithan Fırat
 
-Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **game enthusiast** who loves building engaging digital experiences — from elegant web applications to immersive game worlds. I thrive on solving complex problems and turning ideas into reality through code. 🚀
+Ben **full-stack geliştirici** ve **oyun tutkunu** bir yazılımcıyım.  
+Amacım; kullanıcı dostu web uygulamaları geliştirmek, güçlü backend sistemleri kurmak ve oyun dünyasında özgün deneyimler yaratmak. 🚀
 
 ---
 
-## 🔧 Projects I’m Working On
+## 🔧 Projelerim
 
 ### 🌊 [DivingLog](https://github.com/YigithanFirat/DivingLog)  
-A feature-rich **diving plan management web app** built using **PHP**, **HTML/CSS**, and **JavaScript**.  
-✔️ Add, edit, and track dive logs  
-✔️ Responsive UI with interactive elements  
-✔️ Focused on real-world usability for divers
+**PHP, JS, HTML/CSS** ile hazırlanmış dalış günlüğü yönetim sistemi.  
+✔️ Dalış ekleme, düzenleme ve takip  
+✔️ Mobil uyumlu, etkileşimli arayüz  
+✔️ Gerçek dalgıç deneyimine odaklı tasarım  
 
-### 🎮 Destiny Roleplay (SA-MP Server)  
-Custom roleplay server with deep **gameplay mechanics** and **backend systems**.  
-🛠 Backend scripting in **Pawn**  
-📊 Economy and balance design  
-🗂 In-house admin panel and content management  
-🌐 Built a modern, responsive **forum system** with **PHP** and **XAMPP**
+### 📦 [Inventory Management System](https://github.com/YigithanFirat/Inventory-Management-System)  
+**C#** tabanlı envanter yönetimi uygulaması.  
+🛠 Veri doğrulama ve backend mantığı  
+📊 Gerçek dünyaya uygun envanter çözümleri  
+💡 Modüler yapı  
 
-### 🧩 Unity Projects – Personal & Community Games  
-Creating **narrative-driven** and **multiplayer game systems** with Unity.  
-🎯 Focus on modular game architecture and player experience  
-🎮 Developed inventory, combat, and quest systems  
-🧠 Collaboration with artists and designers for storytelling
+### 💰 [Personal Finance Tracker](https://github.com/YigithanFirat/PersonalFinanceTrackingApp)  
+**Python + Web Arayüz** ile geliştirilmiş bütçe takip uygulaması.  
+📈 Gelir-gider yönetimi  
+📊 Grafiksel raporlar  
+🔒 Kullanıcı giriş sistemi  
 
-### 🧪 Dynamic Interfaces with Vue.js  
-Built real-time UIs using **Vue.js** for internal dashboards and frontend logic.  
-⚙️ Dynamic components  
-📶 RESTful API integration  
-📱 Fully responsive mobile-first design
+### 🧩 [WhatsApp Intention Analysis](https://github.com/YigithanFirat/WhatsAppIntentionAnalysis)  
+**Python & ML** kullanarak mesajlardan niyet sınıflandırma.  
+🤖 “Bilgi” ve “Şikayet” sınıfları  
+📊 Veri analizi + görselleştirme  
+🧠 Doğal dil işleme temelli öğrenme  
 
----
-
-## 🌱 Currently Learning
-
-- 📊 **Advanced PostgreSQL** — tuning performance and using PostgresHook  
-- 🎨 **UI/UX Design** — for both web apps and games  
-- 🔌 **RESTful API Design** — scalable backend architectures  
+### ⚙️ Mid-Level & Basic C++ Projects  
+Konsol tabanlı **C++ öğrenme projeleri**.  
+📚 Veri yapıları, algoritmalar, OOP  
+🎯 Algoritmik düşünme pratiği  
 
 ---
 
-## 🤝 Open to Collaborations On
+## 🌱 Şu An Öğreniyorum
 
-- 🧑‍💻 Full-stack web apps (**PHP**, **JavaScript**, **Vue.js**, **Laravel**)  
-- 🎮 Unity game dev — narrative, sandbox, or roleplay systems  
-- 🛠 Backend-heavy systems with performance considerations  
-
----
-
-## 🧠 Looking for Help With
-
-- ⚙️ Optimizing **SQL queries** for high-load apps  
-- 🧱 Scalable architecture design for **real-time systems**  
-- 🎨 Designing accessible and responsive **design systems**
+- ⚡ PostgreSQL performans tuning  
+- 🎨 UI/UX tasarım prensipleri  
+- 🔌 RESTful API mimarisi  
+- 🧱 Temiz kod & SOLID prensipleri  
 
 ---
 
-## 💬 Ask Me About
+## 🤝 İş Birliklerine Açığım
 
-- 🎯 SA-MP scripting & RP server logic  
-- 🧩 Vue.js component best practices  
-- 🕹 Unity scripting (C#) and game mechanics  
-- 🛠 Backend systems in **PHP**, **MySQL**, **PostgreSQL**
+- Full-stack web geliştirme (**PHP, JS, Vue.js, Python, C#**)  
+- Unity oyun geliştirme (mekanik, envanter, görev sistemleri)  
+- Performans odaklı backend & gerçek zamanlı sistemler  
 
 ---
 
-## 📫 Let’s Connect!
+## 💬 Konuşabileceğimiz Konular
+
+- Vue.js component best practices  
+- PHP & MySQL ile ölçeklenebilir backend  
+- C++ / C# mimari desenler ve algoritmalar  
+- Unity oyun mekanikleri & scripting  
+
+---
+
+## 📫 Bana Ulaş
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/YigithanFirat)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Abusivesnake)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fithan-f%C4%B1rat-164168219/)
-
----
-
-## 😄 Pronouns
-He/Him
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fithan-f%C4%B1rat-164168219/)  
 
 ---
 
 ## ⚡ Fun Fact
 
-I love merging **creativity** with **code** — whether it's crafting a clean UI/UX, writing efficient backend logic, or scripting game mechanics. My goal is always the same: to create **meaningful digital experiences** that people enjoy using.
+Kod yazmayı sadece “iş” olarak görmüyorum; benim için kod, hem makinelerle hem de insanlarla iletişim kurmanın yaratıcı bir yolu. ✨  
 
----
-
-> "Code is not just syntax; it's storytelling for machines and humans alike."
-
+> “Her satır kod, geleceğe bırakılmış bir hikâyedir.”
