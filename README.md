@@ -43,7 +43,9 @@ Konsol tabanlı **C++ öğrenme projeleri**.
 - ⚡ PostgreSQL performans tuning  
 - 🎨 UI/UX tasarım prensipleri  
 - 🔌 RESTful API mimarisi  
-- 🧱 Temiz kod & SOLID prensipleri  
+- 🧱 Temiz kod & SOLID prensipleri
+- 💼 Proje Yönetimi
+- ⚙️ Kalite Mühendisliği
 
 ---
 
